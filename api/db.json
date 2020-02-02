@@ -14,21 +14,6 @@
       "id": 3,
       "title": "Post Three",
       "body": "This is post three"
-    },
-    {
-      "title": "Post Four",
-      "body": "Post Four",
-      "id": 4
-    },
-    {
-      "title": "Post Five",
-      "body": "Post Five",
-      "id": 5
-    },
-    {
-      "title": "Post Six",
-      "body": "This is post six",
-      "id": 6
     }
   ]
 }
